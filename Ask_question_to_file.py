@@ -7,7 +7,7 @@ from langchain.document_loaders import UnstructuredFileLoader
 from langchain import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 import os
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'OPENAI_API_KEY'
 
 
 
