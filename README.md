@@ -3,7 +3,7 @@ Using LangChain for interactive Q/A over documents with a Gradio interface for o
 # Setup
 1. Install the required dependencies:
 
-        pip install -r requirements.txt pip3 install streamlit pip install "unstructured[all-docs]"
+        pip install -r requirements.txt | pip3 install streamlit  | pip install "unstructured[all-docs]"
 
 3. Replace the API key in the main.py file with your actual OpenAI API key:
 
